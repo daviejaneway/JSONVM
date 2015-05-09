@@ -1,0 +1,19 @@
+{
+  "_meta": {
+    "_package_name": "core",
+    "_package_type": "library"
+  },
+  "_dependencies": [],
+  "_instructions": [
+    {
+      "op": "define:",
+      "operands": [
+        "puts"
+      ]
+    },
+    {
+      "op": ";;",
+      "operands": []
+    }
+  ]
+}
