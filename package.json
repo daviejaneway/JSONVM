@@ -1,0 +1,31 @@
+{
+  "name": "jsonvm",
+  "version": "0.0.0",
+  "description": "An easily extensible, retargetable, stack-based VM",
+  "main": "jsonvm.js",
+  "bin": {
+    "jsonvm": "bin/jsonvm.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/daviejaneway/JSONVM"
+  },
+  "keywords": [
+    "javascript",
+    "VM",
+    "JSON"
+  ],
+  "author": "Davie Janeway <davie.janeway@btinternet.com>",
+  "license": "GPL",
+  "bugs": {
+    "url": "https://github.com/daviejaneway/JSONVM/issues"
+  },
+  "homepage": "https://github.com/daviejaneway/JSONVM",
+  "dependencies": {
+    "commander": "^2.8.1",
+    "line-by-line": "^0.1.3"
+  }
+}
