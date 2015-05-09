@@ -1,6 +1,6 @@
 {
   "name": "jsonvm",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "An easily extensible, retargetable, stack-based VM",
   "main": "jsonvm.js",
   "bin": {
